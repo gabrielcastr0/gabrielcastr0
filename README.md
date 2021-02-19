@@ -1,8 +1,8 @@
 # Gabriel Castro | Full Stack Developer
 
-<h3> :boy: About Me </h3>
+<h3> About Me </h3>
 
-- :bust_in_silhouette: &nbsp; Iḿ from Brazil and I have 21 years old.
+- :bust_in_silhouette: &nbsp; I'm from Brazil and I have 21 years old.
 - 🎓 &nbsp; Studying Engineering Software.
 - :hearts: &nbsp; I'm trying learn every time that I have.
 - :wrench: &nbsp; Venturing into the JavaScript world.
