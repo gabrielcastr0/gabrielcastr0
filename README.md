@@ -1,4 +1,4 @@
-# Gabriel Castro | Full Stack Developer
+# Gabriel Castro
 
 <h3> About Me </h3>
 
