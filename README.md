@@ -9,6 +9,5 @@
 
 <h3> Where you can find me </h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-@gc4str0-black?style=flat-square&labelColor=black&logo=twitter&logoColor=FF0000&link=https://twitter.com/gc4str0)](https://twitter.com/gc4str0) 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Castro-black?style=flat-square&logo=Linkedin&logoColor=FF0000&link=https://www.linkedin.com/in/gabriel-castr0/)](https://www.linkedin.com/in/gabriel-castr0/)
 
