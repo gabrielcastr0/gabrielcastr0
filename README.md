@@ -2,10 +2,9 @@
 
 <h3> About Me </h3>
 
-- :bust_in_silhouette: &nbsp; I'm from Brazil and I have 22 years old.
+- :bust_in_silhouette: &nbsp; I'm from Brazil and I have 23 years old.
 - 🎓 &nbsp; I graduated in Engineering Software.
-- :hearts: &nbsp; I'm trying learn every time that I can.
-- :wrench: &nbsp; Venturing into the JavaScript world.
+- :hearts: &nbsp; At the moment, I'm working as a Front-end (React) developer
 
 <h3> Where you can find me </h3>
 
