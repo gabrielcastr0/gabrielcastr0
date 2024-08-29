@@ -2,7 +2,7 @@
 
 <h3> About Me </h3>
 
-- :bust_in_silhouette: &nbsp; I'm from Brazil and I have 24 years old.
+- :bust_in_silhouette: &nbsp; I'm from Brazil and I have 25 years old.
 - 🎓 &nbsp; I graduated in Engineering Software.
 - :hearts: &nbsp; At the moment, I'm working as a Front-end (React) developer
 
