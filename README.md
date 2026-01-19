@@ -4,9 +4,9 @@
 
 <h3> About Me </h3>
 
-- 🇧🇷 brazil based, 25y
+- 🇧🇷 brazil based, 26y
 - 🎓 software engineering graduate
-- 💻 partner & software developer at @LerianStudio
+- 💻 partner & software developer at [@lerian](https://github.com/LerianStudio)
 - 🛠️ specializing in the react ecosystem
 
 <h3> Where you can find me </h3>
